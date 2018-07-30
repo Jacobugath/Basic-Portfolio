@@ -44,10 +44,57 @@ h2{
 footer{
     background-color: #666666;
 }
+.is{
+    height: 200px;
+    width: 250px;
+    margin: 20px;
+}
+.ban{
+    background-color: #4aaaa5;
+    position: relative;
+    top: 75%;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+}
+#one{
+    background-image: url(../images/portfolio-1.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+#two{
+    background-image: url(../images/portfolio-2.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+
+#three{
+    background-image: url(../images/portfolio-3.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+#four{
+    background-image: url(../images/portfolio-4.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+#five{
+    background-image: url(../images/portfolio-1.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
 #content{
     background-color: #fff;
     border: 1px solid #dddddd;
     width: 960px;
+    height: 560px;
+
     margin-left: auto;
     margin-right: auto;
     padding-right: 30px;
